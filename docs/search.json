@@ -93,30 +93,30 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Quarto Academic, PhD",
+    "title": "Qi Zhang",
     "section": "",
-    "text": "Lab\n  \n  \n    \n     Uprofile\n  \n  \n    \n     E-mail\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     YouTube\n  \n  \n      ORCID\n  \n  \n      Web of Science\n  \n  \n      Scopus\n  \n  \n      Google Scholar\n  \n\n  \n  \nI’m a Quarto Academeic Website Template adapted by Dr. Gang He.\nI’m a template that you can fork to build your own website with easy adaptation and deployment.\n\nStar this repository to bookmark it for future reference.\n\nFork this repository and rename it to YourGitHubUserName.github.io.\n\nUpdate the _quarto.yml file to configure your site’s basic settings.\n\nAdd or edit content in the following files and folders:\n\n/posts/ – posts about publications, news, events\n\nteaching.qmd – teaching information\n\nprojects.yml – research or other projects\n\npeople.qmd and /people/ – team or collaborators\n\n/files/ - profiles, images, pdfs, and includes\n\nRender and preview your site locally.\n\nPublish your site using GitHub Pages (make sure configuring your GitHub repository to publish from the docs directory, not the root folder).\nRefine and polish your content and design as needed.\n\n✅ Enjoy your new website!\n\n\n\n\nResearcher, Univerisity\n\n\n\n\n\nPhD, Univerisity"
+    "text": "Hi, I am Qi Zhang, an assistant professor at WPI. I work on building collaborative AI agents. My research interests are in formalisms, theories, and algorithms of single- and multi-agent planning and reinforcement learning.\n2025 - Now    Assistant Professor, CS/AI @ WPI  2020 - 2025    Assistant Professor, CSE/AI @ U of South Carolina  2015 - 2020    PhD, CSE @ UMich\nEmail: qzhang9 at wpi.edu  Office: Unity Hall 355\n I am looking for PhD students and visiting researchers to join my group."
   },
   {
     "objectID": "index.html#experience",
     "href": "index.html#experience",
-    "title": "Quarto Academic, PhD",
+    "title": "Qi Zhang",
     "section": "",
     "text": "Researcher, Univerisity"
   },
   {
     "objectID": "index.html#education",
     "href": "index.html#education",
-    "title": "Quarto Academic, PhD",
+    "title": "Qi Zhang",
     "section": "",
     "text": "PhD, Univerisity"
   },
   {
     "objectID": "index.html#recent-posts",
     "href": "index.html#recent-posts",
-    "title": "Quarto Academic, PhD",
+    "title": "Qi Zhang",
     "section": "Recent Posts",
-    "text": "Recent Posts\nCheck out the latest  Papers ,  News ,  Events , and  More »\n\n\n\n\n\n\n\n\n\n\nQuarto Academic Website Examples and Tips\n\n\n\nOct 15, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nEvent item\n\n\n\nSep 3, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nNews item\n\n\n\nJun 24, 2024\n\n\n\n\n\n\nNo matching items\n\n\nAll Posts »"
+    "text": "Recent Posts\nHi"
   },
   {
     "objectID": "people.html",
@@ -138,5 +138,40 @@
     "title": "People",
     "section": "Alumni",
     "text": "Alumni\n\n\n   \n    \n    \n      Order By\n      Default\n      \n      \n      \n        Name\n      \n      \n        Role\n      \n      \n        Started\n      \n      \n        Ended\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n \n\n\n\nName\n\n\n\nRole\n\n\n\nStarted\n\n\n\nEnded\n\n\n\n\n\n\n\n\n\n\n\nAlumni A\n\n\nPhD Alumni\n\n\n2024\n\n\n2025\n\n\n\n\n\n\n\n\n\nAlumni B\n\n\nMasters Alumni\n\n\n2024\n\n\n2025\n\n\n\n\n\n\n\n\n\nAlumni C\n\n\nUndergraduate Alumni\n\n\n2024\n\n\n2025\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html#recent-posts-1",
+    "href": "index.html#recent-posts-1",
+    "title": "Qi Zhang",
+    "section": "Recent Posts 1",
+    "text": "Recent Posts 1\nHi"
+  },
+  {
+    "objectID": "index.html#recent-posts-2",
+    "href": "index.html#recent-posts-2",
+    "title": "Qi Zhang",
+    "section": "Recent Posts 2",
+    "text": "Recent Posts 2\nHii"
+  },
+  {
+    "objectID": "index.html#teaching",
+    "href": "index.html#teaching",
+    "title": "Qi Zhang",
+    "section": "Teaching",
+    "text": "Teaching\nCS 525 | DS 595 - ST: Multi-Agent Decision Making [Fall 2025] CS 539 - Machine Learning [Spring 2026]"
+  },
+  {
+    "objectID": "index.html#selected-papers",
+    "href": "index.html#selected-papers",
+    "title": "Qi Zhang",
+    "section": "Selected Papers",
+    "text": "Selected Papers\n Google Scholar\nEfficient Information Sharing for Training Decentralized Multi-Agent World Models  Xiaoling Zeng, Qi Zhang  RL Conference 2025   [openreview]"
+  },
+  {
+    "objectID": "index.html#selected-papers-google-scholar",
+    "href": "index.html#selected-papers-google-scholar",
+    "title": "Qi Zhang",
+    "section": "Selected Papers  Google Scholar",
+    "text": "Selected Papers  Google Scholar\nEfficient Information Sharing for Training Decentralized Multi-Agent World Models  Xiaoling Zeng, Qi Zhang  RL Conference 2025   [openreview]"
   }
 ]

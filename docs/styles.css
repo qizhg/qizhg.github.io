@@ -1,1 +1,6 @@
 /* css styles */
+
+/* Remove vertical separator line in the About (trestles) template */
+.quarto-about-trestles .about-contents {
+	border-left: 0 !important;
+}

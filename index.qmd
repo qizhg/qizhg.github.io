@@ -1,7 +1,7 @@
 ---
-title: "Quarto Academic, PhD"
-description-meta: "Quarto Academic Website Template adapted by Dr. Gang He"
-image: "files/images/placeholder4.JPG"
+# title: "Qi Zhang"
+description-meta: "Qi Zhang's Personal Website"
+image: "files/images/qizhang.jpeg"
 page-navigation: false
 toc: false
 #sidebar: false
@@ -10,97 +10,86 @@ page-layout: full
 about:
   id: hero-heading
   template: trestles
-  image-width: 70%
-  links:
-    - icon: sun
-      text: Lab
-      href: https://www.github.com
-      target: _blank
-    - icon: globe
-      text: Uprofile
-      href: https://baruch.cuny.edu
-      target: _blank
-    - icon: envelope
-      text: E-mail
-      href: mailto:email@gmail.com    
-    - icon: linkedin
-      text: LinkedIn
-      href: https://linkedin.com
-      target: _blank
-    - icon: youtube
-      text: YouTube
-      href: https://www.youtube.com     
-      target: _blank 
-    - text: "{{< ai orcid >}} ORCID"   # use academic icons, "" are needed, you also need to install the fontawesome extension
-      href: https://orcid.org
-      target: _blank
-    - text: "{{< ai clarivate >}} Web of Science"
-      href: https://www.webofscience.com  
-      target: _blank
-    - text: "{{< ai scopus >}} Scopus"
-      href: https://www.scopus.com
-      target: _blank
-    - text: "{{< ai google-scholar >}} Google Scholar"
-      href: https://scholar.google.com
-      target: _blank
+  image-width: 87%
+  # links:
+  #   - icon: sun
+  #     text: Lab
+  #     href: https://www.github.com
+  #     target: _blank
+  #   - icon: globe
+  #     text: Uprofile
+  #     href: https://baruch.cuny.edu
+  #     target: _blank
+  #   - icon: envelope
+  #     text: E-mail
+  #     href: mailto:email@gmail.com    
+  #   - icon: linkedin
+  #     text: LinkedIn
+  #     href: https://linkedin.com
+  #     target: _blank
+  #   - icon: youtube
+  #     text: YouTube
+  #     href: https://www.youtube.com     
+  #     target: _blank 
+  #   - text: "{{< ai orcid >}} ORCID"   # use academic icons, "" are needed, you also need to install the fontawesome extension
+  #     href: https://orcid.org
+  #     target: _blank
+  #   - text: "{{< ai clarivate >}} Web of Science"
+  #     href: https://www.webofscience.com  
+  #     target: _blank
+  #   - text: "{{< ai scopus >}} Scopus"
+  #     href: https://www.scopus.com
+  #     target: _blank
+  #   - text: "{{< ai google-scholar >}} Google Scholar"
+  #     href: https://scholar.google.com
+  #     target: _blank
 #    - text: "{{< ai researchgate >}} Research Gate"
 #      href: https://www.researchgate.net
 #      target: _blank
 
-listing:   # Comment the listing section and delete corresponding lines in the index.qmd file to remove the recent posts
-  - id: recent-posts
-    contents: 
-      - posts
-      - posts/post-links.yml
-    exclude:
-      title: ""
-    type: grid
-    max-items: 3
-#    image-height: 150px
-    page-size: 3 #set same as max-times to remove the page number setting
-    fields: [image, date, title, subtitle]
-    max-description-length: 75
-    sort: 
-      - "date desc"
-      - "title asc"
+# listing:   # Comment the listing section and delete corresponding lines in the index.qmd file to remove the recent posts
+#   - id: recent-posts
+#     contents: 
+#       - posts
+#       - posts/post-links.yml
+#     exclude:
+#       title: ""
+#     type: grid
+#     max-items: 3
+# #    image-height: 150px
+#     page-size: 3 #set same as max-times to remove the page number setting
+#     fields: [image, date, title, subtitle]
+#     max-description-length: 75
+#     sort: 
+#       - "date desc"
+#       - "title asc"
 ---
 
 :::{#hero-heading}
 
-I'm a [Quarto Academeic Website Template](https://github.com/drganghe/quarto-academic-website-template) adapted by [Dr. Gang He](http://drganghe.github.io).
+Hi, I am Qi Zhang, an assistant professor at WPI.
+I work on building collaborative AI agents. My research interests are in formalisms, theories, and algorithms of single- and multi-agent planning and reinforcement learning.
 
-I'm a template that you can fork to build your own website with easy adaptation and deployment.
+2025 - Now  &nbsp;&nbsp; Assistant Professor, CS/AI @ WPI <br>
+2020 - 2025  &nbsp;&nbsp; Assistant Professor, CSE/AI @ U of South Carolina <br>
+2015 - 2020  &nbsp;&nbsp; PhD, CSE @ UMich
 
-1. **Star** this repository to bookmark it for future reference.  
-1. **Fork** this repository and rename it to `YourGitHubUserName.github.io`.  
-1. **Update** the `_quarto.yml` file to configure your site’s basic settings.  
-1. **Add or edit content** in the following files and folders:
-   - `/posts/` – posts about publications, news, events  
-   - `teaching.qmd` – teaching information  
-   - `projects.yml` – research or other projects  
-   - `people.qmd` and `/people/` – team or collaborators  
-   - `/files/` - profiles, images, pdfs, and includes 
-1. [**Render and preview**](https://quarto.org/docs/websites/) your site locally.  
-1. [**Publish**](https://quarto.org/docs/publishing/github-pages.html) your site using GitHub Pages (make sure [configuring](https://quarto.org/docs/publishing/images/gh-pages-docs-dir.png) your GitHub repository to publish from the `docs` directory, not the `root` folder). 
-1. **Refine and polish** your content and design as needed.  
-1. ✅ Enjoy your new website!
+Email: qzhang9 at wpi.edu <br>
+Office: Unity Hall 355
 
-## Experience
-
-- Researcher, Univerisity
-
-## Education
-
-- PhD, Univerisity
-
+**
+I am looking for PhD students and visiting researchers to join my group.
+**
 :::
 
+## Selected Papers 
+[{{< ai google-scholar >}} Google Scholar](https://scholar.google.com/citations?hl=en&user=wJNQVS0AAAAJ&view_op=list_works&sortby=pubdate)
 
-<!-- Delete the following section and delete corresponding lines in the yaml part to remove the recent posts -->
-## Recent Posts
-Check out the latest &nbsp;[Papers](posts.qmd#category=paper)&nbsp;, &nbsp;[News](posts.qmd#category=news)&nbsp;, &nbsp;[Events](posts.qmd#category=event)&nbsp;, and &nbsp;[More »](/posts.qmd)
+**Efficient Information Sharing for Training Decentralized Multi-Agent World Models** <br>
+Xiaoling Zeng, Qi Zhang <br>
+_RL Conference 2025_ &nbsp;
+[[openreview](https://openreview.net/forum?id=SWrOnAspSw#discussion)]
 
-:::{#recent-posts}
-:::
-
-<p align="right">[All Posts »](/posts.qmd)</p>
+## Teaching
+CS 525 | DS 595 - ST: Multi-Agent Decision Making [Fall 2025]<br>
+CS 539 - Machine Learning [Spring 2026]
