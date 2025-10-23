@@ -1,5 +1,9 @@
 ---
-title: "qizhg"
+
+
+image: "files/images/placeholder4.JPG"
+
+
 ---
 
 This is a Quarto website.
