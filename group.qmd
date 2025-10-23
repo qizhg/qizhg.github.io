@@ -1,7 +1,0 @@
----
-title: "Group"
----
-
-image: "/files/images/qizhang.jpeg"
-
-Group members
