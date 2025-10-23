@@ -1,9 +1,5 @@
 ---
-
-
-image: "files/images/placeholder4.JPG"
-
-
+image: "/qizhang.jpeg"
 ---
 
 This is a Quarto website.
