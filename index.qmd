@@ -119,19 +119,3 @@ _ICML 2022 DARL Workshop_ &nbsp; [[arXiv](https://arxiv.org/abs/2206.07642)]
 - **Communication-Efficient Actor-Critic Methods for Homogeneous Markov Games** <br>
 Dingyang Chen, Yile Li, Qi Zhang <br>
 _ICLR 2022_ &nbsp; [[openreview](https://openreview.net/forum?id=xy_2w3J3kH)]
-
-### Teaching
-- CS 525 | DS 595 - ST: Multi-Agent Decision Making [Fall 2025]<br>
-- CS 539 - Machine Learning [Spring 2026]
-
-### Group
-- **Current PhD students**:
-Xiaoling Zeng,
-Jinzhu Luo,
-Jianhai Su,
-Ziyu Bian
-<br>
-- **Current MS students**:
-Botao Hu
-<br>
-- **Former members**: [Dingyang Chen](https://dchen48.github.io/) (PhD 2025 &rarr; Applied Scientist at Amazon)

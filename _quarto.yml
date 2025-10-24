@@ -17,15 +17,15 @@ website:
   navbar:
     background: "#F7F7F7"  # You can change the background color here
 
-    # left:   # You can comment out all navigation items here if you just like to keep the index page only
-    #   - text: Papers
-    #     href: papers.qmd
-    #   - text: Group   # Comment the Group part out to remove the Group page
-    #     href: group.qmd
-    #   - text: Teaching
-    #     menu:
-    #       - text: CS 525
-    #         href: cs525.qmd               
+    left:   # You can comment out all navigation items here if you just like to keep the index page only
+      # - text: Papers
+      #   href: papers.qmd
+      - text: Group   # Comment the Group part out to remove the Group page
+        href: group.qmd
+      - text: Teaching
+        menu:
+          - text: CS 525
+            href: cs525.qmd               
 
     # right: 
     #   - text: CV
@@ -40,7 +40,7 @@ website:
     #     href: posts.xml
     #     target: _blank
   
-  # page-navigation: true
+  page-navigation: false
   
   # page-footer: 
     # left: "[Your Name](http://www.github.com) &copy; <script>document.write(new Date().getFullYear())</script>" 
@@ -83,7 +83,7 @@ website:
 format:
   html:
     theme: cosmo
-    margin-top: -3.7em
+    # margin-top: -3.7em
     backgroundcolor: "#F7F7F7"
     mainfont: "Georgia"
     fontsize: 1.01em
