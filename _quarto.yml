@@ -15,7 +15,7 @@ website:
   search: false
   
   navbar:
-    background: light  # You can change the background color here
+    background: "#F7F7F7"  # You can change the background color here
 
     # left:   # You can comment out all navigation items here if you just like to keep the index page only
     #   - text: Papers
@@ -40,7 +40,7 @@ website:
     #     href: posts.xml
     #     target: _blank
   
-  # page-navigation: true
+  # page-navigation: true
   
   # page-footer: 
     # left: "[Your Name](http://www.github.com) &copy; <script>document.write(new Date().getFullYear())</script>" 
@@ -83,16 +83,13 @@ website:
 format:
   html:
     theme: cosmo
-    fontsize: 1.1em
+    margin-top: -3.7em
+    backgroundcolor: "#F7F7F7"
+    mainfont: "Georgia"
+    fontsize: 1.01em
     linestretch: 1.5
+    linkcolor: "#4169E1"
     css: styles.css
     toc: true
-    footnotes-hover: true
-    code-copy: true
-    code-link: true
-    code-overflow: wrap
-    fig-align: center
-    link-external-icon: false
-    link-external-newwindow: true
-    email-obfuscation: javascript
+
 

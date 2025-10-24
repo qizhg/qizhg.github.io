@@ -10,7 +10,7 @@ page-layout: full
 about:
   id: hero-heading
   template: trestles
-  image-width: 89%
+  image-width: 87%
   # links:
   #   - icon: sun
   #     text: Lab
@@ -71,11 +71,11 @@ Hi, I am Qi Zhang, an assistant professor at WPI.
 I work on building collaborative AI agents. My research interests are in formalisms, theories, and algorithms of single- and multi-agent planning and reinforcement learning.
 
 2025 - Now  &nbsp;&nbsp; Assistant Professor, CS/AI @ WPI <br>
-2020 - 2025  &nbsp;&nbsp; Assistant Professor, CSE/AI @ U of South Carolina <br>
-2015 - 2020  &nbsp;&nbsp; PhD, CSE @ UMich
+2020 - 2025  &nbsp; Assistant Professor, CSE/AI @ U of South Carolina <br>
+2015 - 2020  &nbsp; PhD, CSE @ UMich
 
-Email: qzhang9 at wpi.edu <br>
-Office: Unity Hall 355
+<br>Email: qzhang9 at wpi.edu <br>
+Office: Unity Hall 355<br>
 
 **
 I am looking for PhD students and visiting researchers!
@@ -108,7 +108,7 @@ _ICML 2024_ &nbsp; [[arXiv](https://arxiv.org/abs/2308.11842)]
 
 - **Context-Aware Bayesian Network Actor-Critic Methods for Cooperative Multi-Agent Reinforcement Learning** <br>
 Dingyang Chen, Qi Zhang <br>
-_ICML 2023_ &nbsp; [[arXiv](https://arxiv.org/abs/2306.01920)] [[openreview](https://openreview.net/forum?id=pLQoqbUTue)]
+_ICML 2023_ &nbsp; [[openreview](https://openreview.net/forum?id=pLQoqbUTue)]
 
 
 - **Convergence and Price of Anarchy Guarantees of the Softmax Policy Gradient in Markov Potential Games** <br>

@@ -5,6 +5,7 @@
 	border-left: 0 !important;
 }
 
+
 /* Narrow the page width by increasing left/right margins on full-width pages */
 .page-layout-full #quarto-document-content {
 	max-width: 900px;          /* Adjust this value to make the page narrower/wider */
@@ -63,4 +64,14 @@
 		padding-left: .75rem;
 		padding-right: .75rem;
 	}
+}
+
+/* Remove underlines from links site-wide */
+a,
+a:link,
+a:visited,
+a:hover,
+a:focus,
+a:active {
+  text-decoration: none;
 }
