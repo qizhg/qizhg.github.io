@@ -24,8 +24,8 @@ website:
         href: group.qmd
       - text: Teaching
         menu:
-          - text: CS 525
-            href: cs525.qmd               
+          - text: WPI CS 525
+            href: cs525.qmd             
 
     # right: 
     #   - text: CV
