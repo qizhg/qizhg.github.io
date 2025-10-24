@@ -10,7 +10,7 @@ page-layout: full
 about:
   id: hero-heading
   template: trestles
-  image-width: 87%
+  image-width: 79%
   # links:
   #   - icon: sun
   #     text: Lab

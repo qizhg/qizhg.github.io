@@ -8,7 +8,7 @@
 
 /* Narrow the page width by increasing left/right margins on full-width pages */
 .page-layout-full #quarto-document-content {
-	max-width: 900px;          /* Adjust this value to make the page narrower/wider */
+	max-width: 1000px;          /* Adjust this value to make the page narrower/wider */
 	margin-left: auto;
 	margin-right: auto;
 	padding-left: 1rem;        /* Maintain some inner padding for readability */
@@ -17,7 +17,7 @@
 
 /* Also constrain generic column pages (e.g., trestles template uses column-page) */
 #quarto-content .column-page {
-	max-width: 900px;
+	max-width: 1000px;
 	margin-left: auto;
 	margin-right: auto;
 	padding-left: 1rem;
@@ -44,7 +44,7 @@
 
 /* Align the navbar content with the main content/image left edge */
 #quarto-header .navbar .navbar-container {
-		max-width: 900px;      /* match #quarto-document-content and .column-page */
+		max-width: 1000px;      /* match #quarto-document-content and .column-page */
 		margin-left: auto;     /* center the container within the viewport */
 		margin-right: auto;
 		padding-left: 1rem;    /* match inner padding used in content */
