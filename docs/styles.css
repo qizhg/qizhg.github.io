@@ -1,6 +1,66 @@
 /* css styles */
 
-/* Remove vertical separator line in the About (trestles) template */
+/* Remove vertical separator line in the trestles template */
 .quarto-about-trestles .about-contents {
 	border-left: 0 !important;
+}
+
+/* Narrow the page width by increasing left/right margins on full-width pages */
+.page-layout-full #quarto-document-content {
+	max-width: 900px;          /* Adjust this value to make the page narrower/wider */
+	margin-left: auto;
+	margin-right: auto;
+	padding-left: 1rem;        /* Maintain some inner padding for readability */
+	padding-right: 1rem;
+}
+
+/* Also constrain generic column pages (e.g., trestles template uses column-page) */
+#quarto-content .column-page {
+	max-width: 900px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-left: 1rem;
+	padding-right: 1rem;
+}
+
+/* Left-align the about image in the trestles template to line up with section headings */
+.quarto-about-trestles .about-entity {
+	align-items: flex-start !important;  /* override default center alignment */
+	text-align: left !important;
+	padding-left: 0 !important;         /* ensure no left inset */
+}
+
+.quarto-about-trestles .about-entity .about-image {
+	display: block;
+	margin-left: 0 !important;           /* override any auto-centering margins */
+	margin-right: auto !important;
+}
+
+/* Ensure the trestles wrapper itself doesn't add extra left padding */
+.quarto-about-trestles {
+	padding-left: 0 !important;
+}
+
+/* Align the navbar content with the main content/image left edge */
+#quarto-header .navbar .navbar-container {
+		max-width: 900px;      /* match #quarto-document-content and .column-page */
+		margin-left: auto;     /* center the container within the viewport */
+		margin-right: auto;
+		padding-left: 1rem;    /* match inner padding used in content */
+		padding-right: 1rem;
+}
+
+/* Ensure brand area is left-aligned, not centered */
+#quarto-header .navbar-brand-container {
+		margin-left: 0 !important;
+		margin-right: auto !important;
+}
+
+/* Keep defaults on small screens; tighten alignment on larger viewports */
+@media (max-width: 767.98px) {
+	#quarto-header .navbar .navbar-container {
+		max-width: 100%;
+		padding-left: .75rem;
+		padding-right: .75rem;
+	}
 }

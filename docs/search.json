@@ -1,61 +1,5 @@
 [
   {
-    "objectID": "posts.html",
-    "href": "posts.html",
-    "title": "What’s New & Updated",
-    "section": "",
-    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nQuarto Academic Website Examples and Tips\n\n\n\n\n\n\nnews\n\n\n\nExamples and tips for Quarto Academic Website\n\n\n\n\n\nOct 15, 2024\n\n\nDr. Gang He\n\n\n\n\n\n\n\n\n\n\n\n\nEvent item\n\n\n\n\n\n\nevent\n\npresentation\n\n\n\nAbout Event item.\n\n\n\n\n\nSep 3, 2024\n\n\nEvent\n\n\n\n\n\n\n\n\n\n\n\n\nNews item\n\n\n\n\n\n\nnews\n\n\n\nAbout new item\n\n\n\n\n\nJun 24, 2024\n\n\nNews\n\n\n\n\n\n\n\n\n\n\n\n\nCan quantum-mechanical description of physical reality be considered complete?\n\n\nPhysical Review\n\n\n\npaper\n\n\n\nOne is thus led to conclude that the description of reality as given by a wave function is not complete.\n\n\n\n\n\nMay 15, 1935\n\n\nAlbert Einstein, Boris Podolsky, Nathan Rosen\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
-    "section": "",
-    "text": "Notes: * corresponding author; GS graduate student advisee; VS visiting scholar;  ESI Highly Cited Paper (top 1%);  ESI Hot Paper (top 0.1%)\nTotal citations as of January 2025:"
-  },
-  {
-    "objectID": "publications.html#selected-work",
-    "href": "publications.html#selected-work",
-    "title": "Publications",
-    "section": "Selected Work",
-    "text": "Selected Work\nEinstein, A., Podolsky, B., & Rosen, N. (1935). Can quantum-mechanical description of physical reality be considered complete?. Physical review, 47(10), 777. [pdf] [code and data]   \n\n\n\n\n\n\nEinstein, A. (1965). Concerning an heuristic point of view toward the emission and transformation of light. American Journal of Physics, 33(5), 367. [pdf]"
-  },
-  {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": "Order By\n      Default\n      \n      \n      \n        Title\n      \n      \n        Team\n      \n      \n        Funder\n      \n      \n        Description\n      \n      \n        Start\n      \n      \n        End\n      \n      \n        Funding\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n \n\n\n\nTitle\n\n\n\nTeam\n\n\n\nFunder\n\n\n\nDescription\n\n\n\nFunding\n\n\n\nStart\n\n\n\nEnd\n\n\n\n\n\n\n\n\n\n\n\nExploring \n\n\nAcademic Website\n\n\nFunder\n\n\nThe goal of this project is to investigate .\n\n\n$0\n\n\n2024\n\n\n2025\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "posts/news-title/index.html",
-    "href": "posts/news-title/index.html",
-    "title": "News item",
-    "section": "",
-    "text": "About the news"
-  },
-  {
-    "objectID": "posts/news-title/index.html#summary",
-    "href": "posts/news-title/index.html#summary",
-    "title": "News item",
-    "section": "",
-    "text": "About the news"
-  },
-  {
-    "objectID": "posts/paper-title/index.html#abstract",
-    "href": "posts/paper-title/index.html#abstract",
-    "title": "Can quantum-mechanical description of physical reality be considered complete?",
-    "section": "Abstract",
-    "text": "Abstract\nIn a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete."
-  },
-  {
-    "objectID": "posts/paper-title/index.html#links",
-    "href": "posts/paper-title/index.html#links",
-    "title": "Can quantum-mechanical description of physical reality be considered complete?",
-    "section": "Links",
-    "text": "Links\nPublished paper"
-  },
-  {
     "objectID": "teaching.html",
     "href": "teaching.html",
     "title": "Teaching",
@@ -84,94 +28,10 @@
     "text": "Class 3\n\n\n\n\n\nSpring 2025,   Spring 2024\nClass 3 introduction."
   },
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "Quarto Academic\nSchool\nCollege\nUniversity\nAddress:\nPhone:\nE-mail:"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Qi Zhang",
     "section": "",
-    "text": "Hi, I am Qi Zhang, an assistant professor at WPI. I work on building collaborative AI agents. My research interests are in formalisms, theories, and algorithms of single- and multi-agent planning and reinforcement learning.\n2025 - Now    Assistant Professor, CS/AI @ WPI  2020 - 2025    Assistant Professor, CSE/AI @ U of South Carolina  2015 - 2020    PhD, CSE @ UMich\nEmail: qzhang9 at wpi.edu  Office: Unity Hall 355\n I am looking for PhD students and visiting researchers!"
-  },
-  {
-    "objectID": "index.html#experience",
-    "href": "index.html#experience",
-    "title": "Qi Zhang",
-    "section": "",
-    "text": "Researcher, Univerisity"
-  },
-  {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Qi Zhang",
-    "section": "",
-    "text": "PhD, Univerisity"
-  },
-  {
-    "objectID": "index.html#recent-posts",
-    "href": "index.html#recent-posts",
-    "title": "Qi Zhang",
-    "section": "Recent Posts",
-    "text": "Recent Posts\nHi"
-  },
-  {
-    "objectID": "people.html",
-    "href": "people.html",
-    "title": "People",
-    "section": "",
-    "text": "PhD Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nMasters Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nUndergraduate Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nPI\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "people.html#team",
-    "href": "people.html#team",
-    "title": "People",
-    "section": "",
-    "text": "PhD Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nMasters Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nUndergraduate Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nPI\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "people.html#alumni",
-    "href": "people.html#alumni",
-    "title": "People",
-    "section": "Alumni",
-    "text": "Alumni\n\n\n   \n    \n    \n      Order By\n      Default\n      \n      \n      \n        Name\n      \n      \n        Role\n      \n      \n        Started\n      \n      \n        Ended\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n \n\n\n\nName\n\n\n\nRole\n\n\n\nStarted\n\n\n\nEnded\n\n\n\n\n\n\n\n\n\n\n\nAlumni A\n\n\nPhD Alumni\n\n\n2024\n\n\n2025\n\n\n\n\n\n\n\n\n\nAlumni B\n\n\nMasters Alumni\n\n\n2024\n\n\n2025\n\n\n\n\n\n\n\n\n\nAlumni C\n\n\nUndergraduate Alumni\n\n\n2024\n\n\n2025\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "index.html#recent-posts-1",
-    "href": "index.html#recent-posts-1",
-    "title": "Qi Zhang",
-    "section": "Recent Posts 1",
-    "text": "Recent Posts 1\nHi"
-  },
-  {
-    "objectID": "index.html#recent-posts-2",
-    "href": "index.html#recent-posts-2",
-    "title": "Qi Zhang",
-    "section": "Recent Posts 2",
-    "text": "Recent Posts 2\nHii"
-  },
-  {
-    "objectID": "index.html#teaching",
-    "href": "index.html#teaching",
-    "title": "Qi Zhang",
-    "section": "Teaching",
-    "text": "Teaching\nCS 525 | DS 595 - ST: Multi-Agent Decision Making [Fall 2025] CS 539 - Machine Learning [Spring 2026]"
-  },
-  {
-    "objectID": "index.html#selected-papers",
-    "href": "index.html#selected-papers",
-    "title": "Qi Zhang",
-    "section": "Selected Papers",
-    "text": "Selected Papers\n Google Scholar\nEfficient Information Sharing for Training Decentralized Multi-Agent World Models  Xiaoling Zeng, Qi Zhang  RL Conference 2025   [openreview]"
-  },
-  {
-    "objectID": "index.html#selected-papers-google-scholar",
-    "href": "index.html#selected-papers-google-scholar",
-    "title": "Qi Zhang",
-    "section": "Selected Papers  Google Scholar",
-    "text": "Selected Papers  Google Scholar\nEfficient Information Sharing for Training Decentralized Multi-Agent World Models  Xiaoling Zeng, Qi Zhang  RL Conference 2025   [openreview]"
+    "text": "Hi, I am Qi Zhang, an assistant professor at WPI. I work on building collaborative AI agents. My research interests are in formalisms, theories, and algorithms of single- and multi-agent planning and reinforcement learning.\n2025 - Now    Assistant Professor, CS/AI @ WPI  2020 - 2025    Assistant Professor, CSE/AI @ U of South Carolina  2015 - 2020    PhD, CSE @ UMich\nEmail: qzhang9 at wpi.edu  Office: Unity Hall 355\n I am looking for PhD students and visiting researchers! \n\n\n\n\nSelected Papers\n Google Scholar\n\nEfficient Information Sharing for Training Decentralized Multi-Agent World Models  Xiaoling Zeng, Qi Zhang  RL Conference 2025   [openreview]\nReinforcement Learning with Euclidean Data Augmentation for State-Based Continuous Control  Jinzhu Luo, Dingyang Chen, Qi Zhang  NeurIPS 2024   [arXiv]\nEfficient Sequential Decision Making with Large Language Models  Dingyang Chen, Qi Zhang, Yinglun Zhu  EMNLP 2024   [arXiv]\nE(3)-Equivariant Actor-Critic Methods for Cooperative Multi-Agent Reinforcement Learning  Dingyang Chen, Qi Zhang  ICML 2024   [arXiv]\nContext-Aware Bayesian Network Actor-Critic Methods for Cooperative Multi-Agent Reinforcement Learning  Dingyang Chen, Qi Zhang  ICML 2023   [arXiv] [openreview]\nConvergence and Price of Anarchy Guarantees of the Softmax Policy Gradient in Markov Potential Games  Dingyang Chen, Qi Zhang, Thinh T. Doan  ICML 2022 DARL Workshop   [arXiv]\nCommunication-Efficient Actor-Critic Methods for Homogeneous Markov Games  Dingyang Chen, Yile Li, Qi Zhang  ICLR 2022   [openreview]\n\n\n\nTeaching\n\nCS 525 | DS 595 - ST: Multi-Agent Decision Making [Fall 2025]\nCS 539 - Machine Learning [Spring 2026]\n\n\n\nGroup\n\nCurrent PhD students: Xiaoling Zeng, Jinzhu Luo, Jianhai Su, Ziyu Bian \nCurrent MS students: Botao Hu \nFormer members: Dingyang Chen (PhD 2025 → Applied Scientist at Amazon)"
   }
 ]
