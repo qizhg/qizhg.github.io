@@ -74,12 +74,17 @@ I work on building collaborative AI agents. My research interests are in formali
 2020 - 2025  &nbsp; Assistant Professor, CSE/AI @ U of South Carolina <br>
 2015 - 2020  &nbsp; PhD, CSE @ UMich
 
-<br>Email: qzhang9 at wpi.edu <br>
-Office: Unity Hall 355<br>
+Email: qzhang9 at wpi.edu &nbsp;&nbsp;&nbsp;&nbsp;
+Office: Unity Hall 355
+
+[CV](files/cv.pdf) / [Research Statement](files/research_statement.pdf)
+
 
 **
 I am looking for PhD students and visiting researchers!
 **
+
+
 :::
 
 ### Selected Papers 

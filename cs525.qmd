@@ -8,15 +8,17 @@ Tuesday & Friday, 4-5:20 pm. Fuller Labs 320.
 ### Lecture notes
 
   - [Lecture 1](files/cs525/lecture1.pdf) MDP Basics and Planning
-  - [Lecture 2a](files/cs525/lecture2a.pdf) Generative Models: Monte Carlo Tree Search <br>
+  - [Lecture 2a](files/cs525/lecture2a.pdf) Generative Models: Monte Carlo Tree Search
   - [Lecture 2b](files/cs525/lecture2b.pdf) Generative Models: Certainty-Equivalence
-  - [Lecture 3a](files/cs525/lecture3a.pdf) RL Setting, Multi-Armed Bandit <br>
+  - [Lecture 3a](files/cs525/lecture3a.pdf) RL Setting, Multi-Armed Bandit
   - [Lecture 3b](files/cs525/lecture3b.pdf) Taxonomy of RL Algorithms, Q-Learning
   - [Lecture 3c](files/cs525/lecture3c.pdf) Policy Optimization
+  - Lecture 4 Normal-Form Games
+  - Lecture 5 Markov Games
 
 
 ### Related courses
-The course notes are inspired by several related courses:
+The lecture notes are inspired by several related courses:
 
   - Nan Jiang. UIUC CS 542.
   - Chi Jin. Princeton ECE 524.
