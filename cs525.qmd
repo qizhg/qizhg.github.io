@@ -22,4 +22,5 @@ The course notes are inspired by several related courses:
   - Chi Jin. Princeton ECE 524.
   - Gabriele Farina. MIT 6.S890.
   - Tuomas Sandholm. CMU CS 15-888.
+  - Ioannis Panageas. UC Irvine CS 295
 

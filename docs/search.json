@@ -39,7 +39,7 @@
     "href": "cs525.html",
     "title": "Qi Zhang",
     "section": "",
-    "text": "CS 525 - ST: Multi-Agent Decision Making (Fall 2025)\n Time & Location: Tuesday & Friday, 4-5:20 pm. Fuller Labs 320.\n\n\nLecture notes\n\nLecture 1 MDP Basics and Planning\nLecture 2a Generative Models: Monte Carlo Tree Search \nLecture 2b Generative Models: Certainty-Equivalence\nLecture 3a RL Setting, Multi-Armed Bandit \nLecture 3b Taxonomy of RL Algorithms, Q-Learning\nLecture 3c Policy Optimization\n\n\n\nRelated courses\nThe course notes are inspired by several related courses:\n\nNan Jiang. UIUC CS 542.\nChi Jin. Princeton ECE 524.\nGabriele Farina. MIT 6.S890.\nTuomas Sandholm. CMU CS 15-888."
+    "text": "CS 525 - ST: Multi-Agent Decision Making (Fall 2025)\n Time & Location: Tuesday & Friday, 4-5:20 pm. Fuller Labs 320.\n\n\nLecture notes\n\nLecture 1 MDP Basics and Planning\nLecture 2a Generative Models: Monte Carlo Tree Search \nLecture 2b Generative Models: Certainty-Equivalence\nLecture 3a RL Setting, Multi-Armed Bandit \nLecture 3b Taxonomy of RL Algorithms, Q-Learning\nLecture 3c Policy Optimization\n\n\n\nRelated courses\nThe course notes are inspired by several related courses:\n\nNan Jiang. UIUC CS 542.\nChi Jin. Princeton ECE 524.\nGabriele Farina. MIT 6.S890.\nTuomas Sandholm. CMU CS 15-888.\nIoannis Panageas. UC Irvine CS 295"
   },
   {
     "objectID": "group.html",
