@@ -90,6 +90,11 @@ I am looking for PhD students and visiting researchers!
 ### Selected Papers 
 [{{< ai google-scholar >}} Google Scholar](https://scholar.google.com/citations?hl=en&user=wJNQVS0AAAAJ&view_op=list_works&sortby=pubdate)
 
+- **Correlated Policy Optimization in Multi-Agent Subteams** <br>
+Dingyang Chen, Jianing Ye, Zhenyu Zhang, Xiaolong Kuang, Xinyang Shen, Ozalp Ozer, Chongjie Zhang, Qi Zhang <br>
+_ICLR 2026_ &nbsp;
+[[openreview](https://openreview.net/forum?id=Tke3BVwUz6)]
+
 - **Efficient Information Sharing for Training Decentralized Multi-Agent World Models** <br>
 Xiaoling Zeng, Qi Zhang <br>
 _RL Conference 2025_ &nbsp;
