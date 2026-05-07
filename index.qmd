@@ -72,12 +72,12 @@ I work on building collaborative AI agents. My research interests are in formali
 
 2025 - Now  &nbsp;&nbsp; Assistant Professor, CS/AI @ WPI <br>
 2020 - 2025  &nbsp; Assistant Professor, CSE/AI @ U of South Carolina <br>
-2015 - 2020  &nbsp; PhD, CSE @ UMich
+2015 - 2020  &nbsp; PhD, CSE @ U of Michigan
 
 Email: qzhang9 at wpi.edu &nbsp;&nbsp;&nbsp;&nbsp;
 Office: Unity Hall 355
 
-[CV](files/cv.pdf) / [Research Statement](files/research_statement.pdf)
+<!-- [CV](files/cv.pdf) / [Research Statement](files/research_statement.pdf) -->
 
 
 **
@@ -89,6 +89,27 @@ I am looking for PhD students and visiting researchers!
 
 ### Selected Papers 
 [{{< ai google-scholar >}} Google Scholar](https://scholar.google.com/citations?hl=en&user=wJNQVS0AAAAJ&view_op=list_works&sortby=pubdate)
+
+- **Natural Policy Gradient for Bayesian Network Policies in Markov Potential Games** <br>
+Dingyang Chen, Zhenyu Zhang, Yuan Ling, Qi Zhang <br>
+_RL Conference 2026_ &nbsp;
+<!-- [[openreview]( )] -->
+
+- **Active Learning with Foundation Model Priors: Efficient Learning under Class Imbalance** <br>
+Jiancheng Zhang, Meiqing Li, Qi Zhang, Yinglun Zhu <br>
+_ICML 2026_ &nbsp;
+<!-- [[openreview]( )] -->
+
+
+- **Analyzing Best-Response Dynamics for Cooperation in Markov Potential Games** <br>
+Dingyang Chen, Xiaoling Zeng, Thinh T. Doan, Qi Zhang <br>
+_TMLR (2026)_ &nbsp;
+<!-- [[openreview]( )] -->
+
+- **Tree of Options: Temporally Extended World Modeling, Planning, and Execution with Large Language Models** <br>
+Xiaoling Zeng, Dingyang Chen, Qi Zhang <br>
+_ICLR 2026 Workshop on World Models_ &nbsp;
+[[openreview](https://openreview.net/forum?id=uZFpfHSgN0)]
 
 - **Correlated Policy Optimization in Multi-Agent Subteams** <br>
 Dingyang Chen, Jianing Ye, Zhenyu Zhang, Xiaolong Kuang, Xinyang Shen, Ozalp Ozer, Chongjie Zhang, Qi Zhang <br>
