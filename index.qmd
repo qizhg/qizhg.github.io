@@ -103,8 +103,8 @@ _ICML 2026_ &nbsp;
 
 - **Analyzing Best-Response Dynamics for Cooperation in Markov Potential Games** <br>
 Dingyang Chen, Xiaoling Zeng, Thinh T. Doan, Qi Zhang <br>
-_TMLR (2026)_ &nbsp;
-<!-- [[openreview]( )] -->
+_TMLR (May 2026)_ &nbsp;
+[[openreview](https://openreview.net/forum?id=klFSzxt4MC)]
 
 - **Tree of Options: Temporally Extended World Modeling, Planning, and Execution with Large Language Models** <br>
 Xiaoling Zeng, Dingyang Chen, Qi Zhang <br>
