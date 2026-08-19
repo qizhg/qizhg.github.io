@@ -79,12 +79,6 @@ Office: Unity Hall 355
 
 <!-- [CV](files/cv.pdf) / [Research Statement](files/research_statement.pdf) -->
 
-
-**
-I am looking for PhD students and visiting researchers!
-**
-
-
 :::
 
 ### Selected Papers 
@@ -93,12 +87,13 @@ I am looking for PhD students and visiting researchers!
 - **Natural Policy Gradient for Bayesian Network Policies in Markov Potential Games** <br>
 Dingyang Chen, Zhenyu Zhang, Yuan Ling, Qi Zhang <br>
 _RL Conference 2026_ &nbsp;
-<!-- [[openreview]( )] -->
+[[paper](https://rlj.cs.umass.edu/2026/papers/Paper26.html)]
+
 
 - **Active Learning with Foundation Model Priors: Efficient Learning under Class Imbalance** <br>
 Jiancheng Zhang, Meiqing Li, Qi Zhang, Yinglun Zhu <br>
 _ICML 2026_ &nbsp;
-<!-- [[openreview]( )] -->
+[[openreview](https://openreview.net/forum?id=vgZ66lux3q)]
 
 
 - **Analyzing Best-Response Dynamics for Cooperation in Markov Potential Games** <br>
