@@ -22,10 +22,10 @@ website:
       #   href: papers.qmd
       - text: Group   # Comment the Group part out to remove the Group page
         href: group.qmd
-      - text: Teaching
-        menu:
-          - text: WPI CS 525
-            href: cs525.qmd             
+      # - text: Teaching
+      #   menu:
+      #     - text: WPI CS 525
+      #       href: cs525.qmd             
 
     # right: 
     #   - text: CV
